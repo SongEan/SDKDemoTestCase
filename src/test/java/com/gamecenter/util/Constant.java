@@ -20,4 +20,10 @@ public class Constant {
      * 设备信息deviceName
      */
     public static final String DEVICE_NAME = "da05cac5";
+
+    /**
+     * login userName and passWord
+     */
+    public static final String USERNAME = "";
+    public static final String PASSWORD = "";
 }

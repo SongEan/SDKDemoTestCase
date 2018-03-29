@@ -1,3 +1,5 @@
+package com.gamecenter.testScript;
+
 import com.gamecenter.appModule.TestDriver;
 import com.gamecenter.util.Constant;
 import io.appium.java_client.MobileElement;
